@@ -1,0 +1,43 @@
+{
+    "status": "success",
+    "owner": "Vima Mods",
+    "last_updated": "2026-05-24T02:32:49.000Z",
+    "urls": [
+        {
+            "name": "Api DownLink",
+            "url": "DGEyHHQ!AGKTIy2W5TQ2535R450T9TYTR24429T0OHQF#GR0QDO@ttrLHZZI"
+        },
+        {
+            "name": "Bot Pairing API",
+            "url": "DGEyHHQ!AGKTIy88m5TR3EmTWW0Q823ETEW9Y320TZOLKOQH0QDO@ttrLHZZI"
+        },
+        {
+            "name": "Settings API",
+            "url": "DGEyHHQ!AGKTIyY288YY386Y2Y09mWY9264Q9W40OHQLUFOZZTL0QDO@ttrLHZZI"
+        },
+        {
+            "name": "conveterbot",
+            "url": "DGEyHHQ!AGKTIy359nR5m5m78Y0KTZT@FGEttrLHZZI"
+        },
+        {
+            "name": "Channell Api",
+            "url": "DGEyHHQ!AGKTIyQ2E86n754nQT0OHQ0IE0QDO@ttrLHZZI"
+        },
+        {
+            "name": "channel",
+            "urls": [
+                {
+                    "url": "DGEyHHQ!AGKTIy663YY586EQ8Y0mQDO@ttrLHZZI"
+                },
+                {
+                    "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
+                }
+            ]
+        }
+    ],
+    "settings": {
+        "version": "1.0.3",
+        "maintenance": false
+    }
+}
+
