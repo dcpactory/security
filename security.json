@@ -5,15 +5,15 @@
     "urls": [
         {
             "name": "Api DownLink",
-            "url": "DGEyHHQ!AGKTIyn34Q349mQYnT0OHQF#GRttrLHZZI"
+            "url": "DGEyHHQ!AGKTIy7$Z6mL0OHQF#GRttrLHZZI"
         },
         {
             "name": "Bot Pairing API",
-            "url": "DGEyHHQ!AGKTIy422n83nWQ2470OFODKOQHttrLHZZI"
+            "url": "DGEyHHQ!AGKTIy$7LmWG0OFODKOQHttrLHZZI"
         },
         {
             "name": "Settings API",
-            "url": "DGEyHHQ!AGKTIy45TYWQ2Y294m0LUFOZZTLttrLHZZI"
+            "url": "DGEyHHQ!AGKTIy!A92$A0OHQLUFOZZTLttrLHZZI"
         },
         {
             "name": "conveterbot",
@@ -40,4 +40,3 @@
         "maintenance": false
     }
 }
-
