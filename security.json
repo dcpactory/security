@@ -1,42 +1,42 @@
 {
-    "status": "success",
-    "owner": "Vima Mods",
-    "last_updated": "2026-05-24T02:32:49.000Z",
-    "urls": [
+  "status": "success",
+  "owner": "Vima Mods",
+  "last_updated": "2026-05-24T02:32:49.000Z",
+  "urls": [
+    {
+      "name": "Api DownLink",
+      "url": "DGEyHHQ!AGKTIyW89Y4nTY4WmR0YGFH^40OHQF#GRttrLHZZI"
+    },
+    {
+      "name": "Bot Pairing API",
+      "url": "DGEyHHQ!AGKTIy493W8nYmmm4E0ALKGJ@0OFODKOQHttrLHZZI"
+    },
+    {
+      "name": "Settings API",
+      "url": "DGEyHHQ!AGKTIyQn6Q637W32WT0QA24A20OHQLUFOZZTLttrLHZZI"
+    },
+    {
+      "name": "conveterbot",
+      "url": "DGEyHHQ!AGKTIy8E6YTm3QRE860mIP#Em0KTZT@FGEttrLHZZI"
+    },
+    {
+      "name": "Channell Api",
+      "url": "DGEyHHQ!AGKTIyQ2E86n754nQT0OHQ0IE0QDO@ttrLHZZI"
+    },
+    {
+      "name": "channel",
+      "urls": [
         {
-            "name": "Api DownLink",
-            "url": "DGEyHHQ!AGKTIyW89Y4nTY4WmR0YGFH^40OHQF#GRttrLHZZI"
+          "url": "DGEyHHQ!AGKTIy663YY586EQ8Y0mQDO@ttrLHZZI"
         },
         {
-            "name": "Bot Pairing API",
-            "url": "DGEyHHQ!AGKTIy493W8nYmmm4E0ALKGJ@0OFODKOQHttrLHZZI"
-        },
-        {
-            "name": "Settings API",
-            "url": "DGEyHHQ!AGKTIyQn6Q637W32WT0QA24A20OHQLUFOZZTLttrLHZZI"
-        },
-        {
-            "name": "conveterbot",
-            "url": "DGEyHHQ!AGKTIy8E6YTm3QRE860mIP#Em0KTZT@FGEttrLHZZI"
-        },
-        {
-            "name": "Channell Api",
-            "url": "DGEyHHQ!AGKTIyQ2E86n754nQT0OHQ0IE0QDO@ttrLHZZI"
-        },
-        {
-            "name": "channel",
-            "urls": [
-                {
-                    "url": "DGEyHHQ!AGKTIy663YY586EQ8Y0mQDO@ttrLHZZI"
-                },
-                {
-                    "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
-                }
-            ]
+          "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
         }
-    ],
-    "settings": {
-        "version": "1.0.3",
-        "maintenance": false
+      ]
     }
+  ],
+  "settings": {
+    "version": "1.0.3",
+    "maintenance": false
+  }
 }
