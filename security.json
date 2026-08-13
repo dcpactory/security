@@ -33,6 +33,14 @@
                     "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
                 }
             ]
+        },
+ {
+            "name": "pair",
+            "urls": [
+                {
+                    "url": "DGEyHHQ!AGKTIym497YWT923W409OFODKOQHttrLHZZI"
+                }
+            ]
         }
     ],
     "settings": {
@@ -40,3 +48,6 @@
         "maintenance": false
     }
 }
+
+
+
