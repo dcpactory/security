@@ -11,6 +11,16 @@
             "name": "Bot Pairing API",
             "url": "DGEyHHQ!AGKTIyY6687m7Q4R6203A5T3R0OFODKOQHttrLHZZI"
         },
+ {
+            "name": "Bot Pairing API2",
+            "url": "DGEyHHQ!DGEyHHQ!AGKTIyn49m7WnQ63Wm08OFODKOQHttrLHZZI"
+        },
+{
+            "name": "Bot Pairing API3",
+            "url": "DGEyHHQ!AGKTIym497YWT923W409OFODKOQHttrLHZZI"
+        },
+
+
         {
             "name": "Settings API",
             "url": "DGEyHHQ!AGKTIynE68mYn63R4T0PYFDIE0OHQLUFOZZTLttrLHZZI"
@@ -31,14 +41,6 @@
                 },
                 {
                     "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
-                }
-            ]
-        },
- {
-            "name": "pair",
-            "urls": [
-                {
-                    "url": "DGEyHHQ!AGKTIym497YWT923W409OFODKOQHttrLHZZI"
                 }
             ]
         }
