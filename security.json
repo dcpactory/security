@@ -1,55 +1,50 @@
 {
-    "status": "success",
-    "owner": "Vima Mods",
-    "last_updated": "2026-05-24T02:32:49.000Z",
-    "urls": [
+  "status": "success",
+  "owner": "Vima Mods",
+  "last_updated": "2026-05-24T02:32:49.000Z",
+  "urls": [
+    {
+      "name": "Api DownLink",
+      "url": "DGEyHHQ!AGKTIy66REEYEE3RYR0E@Y@F^0OHQF#GRttrLHZZI"
+    },
+    {
+      "name": "Bot Pairing API",
+      "url": "DGEyHHQ!AGKTIyY6687m7Q4R6203A5T3R0OFODKOQHttrLHZZI"
+    },
+    {
+      "name": "Settings API",
+      "url": "DGEyHHQ!AGKTIynE68mYn63R4T0PYFDIE0OHQLUFOZZTLttrLHZZI"
+    },
+    {
+      "name": "conveterbot",
+      "url": "DGEyHHQ!AGKTIyTQ2683Q6T78m0#T7IY@0KTZT@FGEttrLHZZI"
+    },
+    {
+      "name": "Bot Pairing API2",
+      "url": "DGEyHHQ!AGKTIym497YWT923W409OFODKOQHttrLHZZI"
+    },
+    {
+      "name": "Bot Pairing API3",
+      "url": "DGEyHHQ!AGKTIyn49m7WnQ63Wm08OFODKOQHttrLHZZI"
+    },
+    {
+      "name": "Channell Api",
+      "url": "DGEyHHQ!AGKTIyQ2E86n754nQT0OHQ0IE0QDO@ttrLHZZI"
+    },
+    {
+      "name": "channel",
+      "urls": [
         {
-            "name": "Api DownLink",
-            "url": "DGEyHHQ!AGKTIy66REEYEE3RYR0E@Y@F^0OHQF#GRttrLHZZI"
+          "url": "DGEyHHQ!AGKTIy663YY586EQ8Y0mQDO@ttrLHZZI"
         },
         {
-            "name": "Bot Pairing API",
-            "url": "DGEyHHQ!AGKTIyY6687m7Q4R6203A5T3R0OFODKOQHttrLHZZI"
-        },
-
-
-        {
-            "name": "Settings API",
-            "url": "DGEyHHQ!AGKTIynE68mYn63R4T0PYFDIE0OHQLUFOZZTLttrLHZZI"
-        },
-        {
-            "name": "conveterbot",
-            "url": "DGEyHHQ!AGKTIyTQ2683Q6T78m0#T7IY@0KTZT@FGEttrLHZZI"
-        },
-{
-            "name": "Bot Pairing API2",
-            "url": "DGEyHHQ!AGKTIym497YWT923W409OFODKOQHttrLHZZI"
-        },
-{
-            "name": "Bot Pairing API3",
-            "url": "DGEyHHQ!AGKTIyn49m7WnQ63Wm08OFODKOQHttrLHZZI"
-        },
-        {
-            "name": "Channell Api",
-            "url": "DGEyHHQ!AGKTIyQ2E86n754nQT0OHQ0IE0QDO@ttrLHZZI"
-        },
-        {
-            "name": "channel",
-            "urls": [
-                {
-                    "url": "DGEyHHQ!AGKTIy663YY586EQ8Y0mQDO@ttrLHZZI"
-                },
-                {
-                    "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
-                }
-            ]
+          "url": "DGEyHHQ!AGKTIyQ8E78262R26Y090QDO@ttrLHZZI"
         }
-    ],
-    "settings": {
-        "version": "1.0.3",
-        "maintenance": false
+      ]
     }
+  ],
+  "settings": {
+    "version": "1.0.3",
+    "maintenance": false
+  }
 }
-
-
-
